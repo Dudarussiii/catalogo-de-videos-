@@ -1,0 +1,46 @@
+*{
+    margin:0;
+}
+
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: "Geist Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size:32px;
+    color: rgb(255, 0, 0);
+}
+
+.primeira-parte{
+    background-color: #020b3c;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto-video{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
+}
+
+.video{
+    padding-right: 5%;
+}
+
+.titulo-do-video{
+    font-size: 32px;
+}
+img{
+    height: 200px;
+}
+
+.categoria1
